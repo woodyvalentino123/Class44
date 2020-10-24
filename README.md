@@ -1,1 +1,1 @@
-# Class44
+# Box Class
